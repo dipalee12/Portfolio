@@ -14,8 +14,7 @@ const introdata = {
   },
   description:
     "I am a dedicated and aspiring professional in the field of technology. As a graduate student, my coursework has focused on cutting-edge subjects such as Machine Learning, Data Science.And passionate about Front-aend Development.",
-  your_img_url:
-    "https://res.cloudinary.com/dbf0clhmr/image/upload/v1708276248/Img/IMG-bg_pvpohz.png",
+  your_img_url:require("./assets/images/your_imag.png"),
 };
 
 const dataabout = {
